@@ -203,6 +203,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*World of Warships · Updated 2026-11-18 · Shared under the MIT License*
+*World of Warships · Updated 2026-11-19 · Shared under the MIT License*
 
-<!-- rev 2026-11-18 -->
+<!-- rev 2026-11-19 -->
